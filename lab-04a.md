@@ -1,11 +1,12 @@
-# **Anthony Garcia**
+# My Introductoin 
+## **Anthony Garcia**
 
 *My favourite hobby is watching Anime*
 
-## Things I enjoy doing
-- Collecting Merch
+ Things I enjoy doing
+- Collecting Merchandise
 - Watching Baseball
-- Watching Youtube
+- Watching Livestreams
 <br>
 
 # Spaghetti Reciipe
