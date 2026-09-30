@@ -4,7 +4,7 @@ Welcome to my academic portfolio for [Course Name]!
 
 ## About Me
 - Name: Anthony Garcia
-- Major: Computer Programming and Analysis
+- Major: Computer Programming and Analysis (CPA)
 - Year: 2026
 - Favorite Programming Language: Python
 
