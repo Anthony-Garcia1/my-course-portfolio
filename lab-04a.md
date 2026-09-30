@@ -1,106 +1,90 @@
-#Exercise 1
-Create a short introduction about yourself using:
-One main heading
-Bold text for your name
-#**Anthony Garcia**
-*Watching Anime*
-A list of three things you enjoy doing
-##Collecting Merch
-##Watching Sports
-##Watching Youtube
+# **Anthony Garcia**
 
+*My favourite hobby is watching Anime*
 
+## Things I enjoy doing
+- Collecting Merch
+- Watching Baseball
+- Watching Youtube
+<br>
 
+# Spaghetti Reciipe
 
-Write a recipe using:
-#Spaghetti Recipe
-##Pasta
-##Tomato Sauce
-## Cheese
-Boil Pasta until it is soft.
-Heat the meat.
-Build the sauce
-Add tomatoes
-Cook Spaghetti for 15 minutes
-Add the pasta and add cheese
-Remember to avoid burning the food. The pasta must be soft
-A main heading for the recipe name
-A subheading for ingredient
-A numbered list for cooking steps
-Bold text for important cooking tips
+## Ingredients
+- 1 pound of dry spaghetti noodles, plus water and salt for boiling
+- 1 pound of ground beef or Italian sausage.
+- 1 pound of ground beef or Italian sausage.
+- 1 can of diced tomatoes, 1 can of tomato sauce, and 1 small can of tomato paste.
 
+## Cooking Steps
+  1. Boil Pasta until it is soft.
+  2. Combine ground beef, bell pepper, onion, and garlic in a large saucepan over medium-high heat; cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.
+  3. Stir diced tomatoes, tomato sauce, and tomato paste into ground beef mixture; season with oregano, basil, salt, and black pepper. Simmer sauce for 1 hour, stirring occasionally.
+  4. Serve hot and enjoy!
+<br>
 
-Exercise 4
-Your markdown document should include:
-Multiple heading levels (H1, H2, H3)
-A blockquote for the academic integrity definition
-Bold text for key terms
-A bulleted list for the policy sections
-At least one table (use the procedure table from Appendix A)
-Links to related resources or policies mentioned
+# Academic Integrity Policy
 
-
-
-
-
-
-
-
-
-
-
-
-Purpose
+## Purpose
 To maintain a high standard of academic integrity across the Seneca community and provide the foundation for research, teaching, learning and working practices. 
-Scope
+## Scope
 This policy applies to current students and employees.
-Key definitions
-Academic integrity
+# Key definitions
+## Academic integrity
 Within an academic environment, “a commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility and courage.” From these values flow principles of behaviour that enable academic communities to translate ideals to action to ensure the credentials granted to students accurately reflect their demonstrated knowledge and abilities. 
-Cheating
+## Cheating
 Obtaining or attempting to get, or aiding another person to obtain, credit for work or improvement in performance evaluation by dishonest or deceptive means. Examples include, but are not limited to, self-plagiarism, impersonation, falsification, taking individual credit for group work, unauthorized collaborations and aids and undeclared AI use.  
-Seneca business day
+## Seneca business day
 Monday to Friday, excluding statutory holidays or any other day Seneca has publicly acknowledged that it is closed.
-Contract cheating
+## Contract cheating
 When a student submits academic work created by a third party as if it were their own for academic credit. It may involve a fee paid or an exchange of other items with a third party to complete the work.
-Falsification/fabrication
+## Falsification/fabrication
 Misrepresenting another student’s academic work, withholding or forging personal documentation (e.g., medical, academic, and placement information/records, or the unauthorized creation, alteration or reporting of false/inaccurate information in an educational activity) to gain an academic advantage.
-Impersonation
+## Impersonation
 Taking a test, an examination or any other assessment on behalf of another individual in a physical or virtual setting, with their knowledge and consent. 
-Official transcript
+## Official transcript
 A detailed record of a student’s academic history carries an authorized signature and can be requested for a fee.
-Plagiarism
+## Plagiarism
 Using another individual’s, group’s or organization’s work (e.g., words, images, ideas, logic, phrases, signatures or computations) as is or modified by replacing words or phrases with synonyms and presenting it as one’s own, without properly citing the source. This may also include self-plagiarism. 
-Self-plagiarism
+## Self-plagiarism
 The unauthorized re-use of one’s work from previous assignments.
-Student record
+## Student record
 A documented history of a student’s educational progress found in the Student Centre may include electronic notations/service indicators (e.g., outstanding fees). Electronic notations/service indicators are not visible on a student’s official transcript. 
-Unauthorized aid
+## Unauthorized aid
 Using non-approved supports to complete coursework or assessments, including, but not limited to, peer collaborations, artificial intelligence technology, the internet, smartphones, etc.
-Undeclared AI use
+## Undeclared AI use
 Using artificial intelligence to generate part or all of an assessment without a disclosure statement outlining how and to what extent the artificial technology was used.
-Seneca’s Academic Integrity Program
+## Seneca’s Academic Integrity Program
 A holistic, integrated model grounded in teaching and learning that requires the engagement and participation of students and various academic and service areas.
-Academic integrity violation 
+## Academic integrity violation 
 An attempt to gain an unfair advantage in any formal assessment, such as coursework and exams.
-Hybrid delivery 
+## Hybrid delivery 
 When some parts of a program or course are delivered online, and others are in person and require students to come to campus to complete them.
-Flexible course delivery
+## Flexible course delivery
 When professors teach a class to students in a classroom or lab and broadcast it to other students learning online simultaneously; in courses delivered in a flexible format, students have the choice to come to campus for an on-campus experience or learn remotely online synchronously or asynchronously. 
-Policy
-1. General
-Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
-Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
-2. Academic integrity program
-Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
-The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
-3. Responsibilities
-Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
-Students are responsible for informing faculty of any circumstance affecting their academic performance as soon as it is known to allow enough time for alternate arrangements.
-If a student witnesses or suspects an academic integrity violation, the student can report it following the procedures outlined in Appendix A.
-4. Sanctions
-Academic integrity sanctions will be applied according to the severity of the violation committed. (See Appendix B for the academic integrity sanctions.)
-Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
-Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
+# Policy
+## 1. General
+- Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
+- Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
+## 2. Academic integrity program
+- Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
+- The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
+## 3. Responsibilities
+- Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
+- Students are responsible for informing faculty of any circumstance affecting their academic performance as soon as it is known to allow enough time for alternate arrangements.
+- If a student witnesses or suspects an academic integrity violation, the student can report it following the procedures outlined in Appendix A.
+## 4. Sanctions
+- Academic integrity sanctions will be applied according to the severity of the violation committed. (See Appendix B for the academic integrity sanctions.)
+- Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
+- Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
 
+# Appendix A: Academic integrity procedure
+| Action | Duration, unless extenuating circumstances arise | Responsibility |
+|---|---|---|
+| 1. Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program. | As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair. | Faculty, invigilator, student, support staff |
+| 2. Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally. | As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair. | Faculty, invigilator, support staff |
+| 3. Collect and retain the in-person or online assessment (e.g., test/examination, lab report, essay, assignment, quiz, video or project) and any related evidence, at the discretion of the faculty/invigilator or support staff. | Within five days of the reported violation. | Faculty, invigilator, support staff |
+| 3. a) If it is concluded that no academic integrity offence has occurred, inform the student and no further action is required. | As soon as possible, within two Seneca business days. | Faculty |
+| 3. b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process. | As soon as possible, within five Seneca business days. | Faculty |
 
+[Academic Appeals Policy](https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
