@@ -1,4 +1,4 @@
-# My Introductoin 
+# My Introduction 
 ## **Anthony Garcia**
 
 *My favourite hobby is watching Anime*
